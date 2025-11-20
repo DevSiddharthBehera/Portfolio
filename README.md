@@ -32,7 +32,7 @@ npm run export
 
 - Sticky navigation with scroll-friendly anchor links for each section.
 - Hero, expertise, projects, experience, architecture, and contact sections powered by typed data structures in `lib/data.ts`.
-- Copy comes directly from `public/Siddharth Behera 1025.pdf`, keeping the site in sync with the résumé.
+- Copy comes directly from `public/SiddharthBeheraCV.pdf`, keeping the site in sync with the résumé.
 - Structured data (`Person` JSON-LD), Open Graph, and Twitter metadata for SEO.
 - Accessible color contrast, semantic headings, and mobile-first layout.
 - Static assets for favicon, Open Graph preview, robots instructions, and XML sitemap included in `public/`.

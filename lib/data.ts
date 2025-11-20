@@ -13,7 +13,7 @@ export const heroContent = {
   description:
     'Results-driven engineer with 3+ years of experience building reliable MERN applications, performance-tuned data layers, and collaborative delivery workflows that keep teams shipping fast.',
   ctaPrimary: { label: 'Explore Talk-A-Tive', href: 'https://talk-a-tive-pwvu.onrender.com/' },
-  ctaSecondary: { label: 'Download resume', href: '/Siddharth%20Behera%201025.pdf' },
+  ctaSecondary: { label: 'Download resume', href: '/SiddharthBeheraCV.pdf' },
   stats: [
     { label: 'Years building MERN products', value: '3+' },
     { label: 'Query time reduced', value: '70%' },
@@ -68,7 +68,7 @@ export const timeline: TimelineItem[] = [
   {
     company: 'Vortex Digital Solutions',
     role: 'Software Engineer',
-    period: 'Feb 2021 - Present',
+    period: 'Oct 2022 - Present',
     achievements: [
       'Lead full-stack delivery across MongoDB, Express, React, and Node for high-traffic dashboards',
       'Implemented compound indexes plus aggregation refactors to reduce critical query time by 70%',
@@ -181,7 +181,7 @@ export const architectureHighlights: ArchitectureHighlight[] = [
 export const contactChannels = [
   { label: 'Email', value: 'devsiddharthbehera@gmail.com', href: 'mailto:devsiddharthbehera@gmail.com' },
   { label: 'Phone', value: '+91 84559 32162', href: 'tel:+918455932162' },
-  { label: 'Resume', value: 'Download PDF', href: '/Siddharth%20Behera%201025.pdf' },
+  { label: 'Resume', value: 'Download PDF', href: '/SiddharthBeheraCV.pdf' },
 ];
 
 // SEO keywords used across the site (primary + long-tail phrases)
